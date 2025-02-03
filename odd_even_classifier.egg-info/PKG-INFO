@@ -1,0 +1,6 @@
+Metadata-Version: 2.2
+Name: odd_even_classifier
+Version: 0.1.0
+Requires-Dist: tensorflow>=2.0.0
+Requires-Dist: numpy
+Dynamic: requires-dist
