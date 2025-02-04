@@ -9,8 +9,8 @@ A test notebook as a playground for release process
 1.  **Clone the repository:**
 
     ```bash
-    git clone [your-repo-url]
-    cd [your-repo-name]
+    git clone git clone git@github.com:Nikhar-Google/test-notebook.git
+    cd test-notebook
     ```
 
 2.  **Run the setup script:**
