@@ -1,3 +1,18 @@
 [build-system]
 requires = ["setuptools>=42", "wheel"]
 build-backend = "setuptools.build_meta"
+
+[project]
+name="odd_even_classifier"
+version="0.1.0"
+requires-python = ">=3.7"
+dependencies = [
+    "tensorflow==2.11.0",
+    "torch==1.13.1",
+    "pandas==1.5.3",
+    "jupyter==1.0.0",
+    "jupyterlab==3.6.1",
+]
+
+[tool.setuptools.packages.find]
+where = ["odd_even_classifier"]

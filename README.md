@@ -1,12 +1,33 @@
-# Odd-Even Classifier
+# Test Notebook
 
-A simple Python library using TensorFlow to classify whether a number is odd or even.
+## Overview
 
-## Features
-- Train a simple model to classify numbers as odd or even.
-- Predict odd/even status for any given number.
+A test notebook as a playground for release process
 
-## Installation
-Install the package using pip:
-```bash
-pip install odd-even-classifier
+## Getting Started
+
+1.  **Clone the repository:**
+
+    ```bash
+    git clone [your-repo-url]
+    cd [your-repo-name]
+    ```
+
+2.  **Run the setup script:**
+
+    *   **Linux/macOS:**
+
+        ```bash
+        bash setup.sh
+        ```
+
+    This will:
+    * Create a virtual environment.
+    * Install the required dependencies (including your client library).
+    * Launch Jupyter Lab (you can change it to launch the classic notebook interface if you prefer).
+
+## Troubleshooting
+[TODO]
+
+## License
+[TODO]
