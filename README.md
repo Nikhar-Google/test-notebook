@@ -27,7 +27,7 @@ Before you begin, make sure you have the following installed:
 
 
     ```bash
-    git checkout tags/v1.0.1 -b release-1.0.1
+    git checkout tags/v1.0.2 -b release-1.0.2
     ```
 
 4.  **Run the Setup Script and launch the notebook:**
