@@ -13,7 +13,7 @@ Before you begin, make sure you have the following installed:
 1.  **Clone the Repository:**
 
     ```bash
-    git clone git clone git@github.com:Nikhar-Google/test-notebook.git
+    git clone git@github.com:Nikhar-Google/test-notebook.git
     cd test-notebook
     ```
 
