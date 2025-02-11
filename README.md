@@ -12,9 +12,21 @@ Before you begin, ensure you have the following installed:
     ```bash
     pip3 --version
     ```
-*   **venv:** The standard Python module for creating virtual environments. It's typically included with Python 3.
+*   **venv:** The standard Python module for creating virtual environments. It's typically included with Python 3. It is usually included with Python 3, **but on some Linux distributions, it may need to be installed separately.**  See the "Checking and Installing `venv`" section below.
 *   **Git:**  For cloning the repository and managing versions.
 
+### Checking and Installing `venv`
+
+**Important:** While `venv` is typically part of standard Python 3 installations, some operating systems (particularly certain Linux distributions) package it separately.  Before proceeding, verify that `venv` is available:
+
+Run the following command in your terminal:
+
+```bash
+python3 -m venv -h
+```
+
+1. If you see help text for `venv`: venv is installed, and you can proceed to the "Installation" section.
+2. If you see an error message like `No module named venv`: You need to install venv based on your OS.
 
 ## Installation (from a Specific Release via Git - Recommended)
 
