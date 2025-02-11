@@ -1,5 +1,0 @@
-tensorflow==2.17.0
-torch==1.13.1
-pandas==1.5.3
-jupyter==1.0.0
-jupyterlab==3.6.1
