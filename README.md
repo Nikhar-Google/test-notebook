@@ -35,7 +35,7 @@ Before you begin, ensure you have the following installed:
 
 
     ```bash
-    git checkout tags/v1.0.2 -b release-1.0.2
+    git checkout tags/v1.0.3 -b release-1.0.3
     ```
 
 4.  **Create a Virtual Environment:**
