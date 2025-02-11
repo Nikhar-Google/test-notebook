@@ -47,7 +47,7 @@ python3 -m venv -h
 
 
     ```bash
-    git checkout tags/v1.0.3 -b release-1.0.3
+    git checkout tags/v1.0.4 -b release-1.0.4
     ```
 
 4.  **Create a Virtual Environment:**
